@@ -2,7 +2,7 @@
 
 Loader - мини Android приложение, которое по HHTP запросу получает список курсов, преподаваемых у нас в Netologia!
 
-![image](https://user-images.githubusercontent.com/44145716/189740059-4c7f5865-61b0-4fce-8a1d-6f25d73ee1c9.png)
+<img src="[relative/path/in/repository/to/image.svg](https://user-images.githubusercontent.com/44145716/189740059-4c7f5865-61b0-4fce-8a1d-6f25d73ee1c9.png)" width="128" height 128/>
 
 ### Для чего?
 Для осведомленности будущего ученика о программах, преподаваемых в Netologia. 
