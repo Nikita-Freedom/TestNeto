@@ -4,6 +4,8 @@ Loader - мини Android приложение, которое по HHTP зап�
 
 <img src="[relative/path/in/repository/to/image.svg](https://user-images.githubusercontent.com/44145716/189740059-4c7f5865-61b0-4fce-8a1d-6f25d73ee1c9.png)" width="128" height 128/>
 
+![image](https://user-images.githubusercontent.com/44145716/189740788-8f725196-00df-4189-a86a-0c072380d743.png | width=120 height 300)
+
 ### Для чего?
 Для осведомленности будущего ученика о программах, преподаваемых в Netologia. 
 
