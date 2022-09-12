@@ -20,6 +20,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.example.testneto.R
+import com.example.testneto.core.ui.component.EmptyContentMessage
 import com.example.testneto.courses.data.entity.*
 import com.example.testneto.courses.ui.mappers.getColor
 
@@ -56,11 +58,11 @@ private fun MainScreenContent(
         data = data.data
       )
     } else {
-//      EmptyContentMessage(
-//        imgRes = R.drawable.img_files_170,
-//        title = "Данных нет",
-//        description = "",
-//      )
+      EmptyContentMessage(
+        imgRes = R.drawable.img_status_disclaimer_170,
+        title = "Данных нет",
+        description = "а обновить тоже не получится, так как нет у тебя свайпа",
+      )
     }
   }
 }
